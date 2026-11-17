@@ -21,3 +21,9 @@ A calling console for truck dispatchers. It finds small carriers, tells you who 
 - Record or transcribe calls only where the law allows. Some states need everyone on the call to agree.
 
 Windows only.
+
+## Need help?
+
+If anything goes wrong, contact **Danny Khan** on WhatsApp: **+92 335 403 2242**.
+
+
